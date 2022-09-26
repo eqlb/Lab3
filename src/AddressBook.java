@@ -26,4 +26,7 @@ public class AddressBook {
         addressBook.removeBuddy(0);
     }
     //Random text
+    public void testMethod(){
+
+    }
 }
